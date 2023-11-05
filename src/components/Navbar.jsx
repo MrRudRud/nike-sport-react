@@ -6,7 +6,7 @@ import {
 const Navbar = () => {
   return (
     <>
-      <header className="bg-theme-cart">
+      <header className="bg-theme">
         <nav className="flex items-center justify-between nike-container">
           {/* logo */}
           <div className="flex items-center">
