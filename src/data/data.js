@@ -24,6 +24,7 @@
 // import product10 from "../assets/product10.png";
 // import product11 from "../assets/product11.png";
 // import product12 from "../assets/product12.png";
+import nike from "../assets/nike.png";
 
 // import facebook from "../assets/facebook.svg";
 // import instagram from "../assets/instagram.svg";
@@ -34,7 +35,7 @@
 const heroapi = {
   title: "Play With Electric Nike",
   subtitle: "Adapt 2.0 Sneakers",
-  img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+  img: nike,
   btntext: "Explore Product",
   // videos: [
   //   {imgsrc: vcover1, clip: clip},
@@ -59,7 +60,7 @@ const popularsales = {
       text: "MEN Running Shoes",
       rating: "4.9",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "200",
       color: "from-blue-600 to-blue-500",
       shadow: "shadow-lg shadow-blue-500",
@@ -70,7 +71,7 @@ const popularsales = {
       text: "MEN Running Shoes",
       rating: "4.5",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "200",
       color: "from-red-500 to-rose-500",
       shadow: "shadow-lg shadow-rose-500",
@@ -81,7 +82,7 @@ const popularsales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "200",
       color: "from-violet-500 to-indigo-500",
       shadow: "shadow-lg shadow-violet-500",
@@ -95,7 +96,7 @@ const highlight = {
   text: "Our Purpose is to move the world forward. We take action by building community, protecting our planet and increasing access to sport.",
   btn: "Explore More",
   url: "https://www.nike.com/launch/t/nocta-hot-step-black-gold",
-  img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+  img: nike,
 };
 
 const sneaker = {
@@ -104,7 +105,7 @@ const sneaker = {
   text: "The radiance lives on Nike Sneakers Air Lancing Shoes, the basket ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
   btn: "Explore More",
   url: "https://sneakernews.com/2022/03/21/nike-lebron-2-retro-white-midnight-navy-varsity-crimson-dr0826-100/",
-  img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+  img: nike,
 };
 
 const topratesales = {
@@ -116,7 +117,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-sky-600 to-indigo-600",
       shadow: "shadow-lg shadow-blue-500",
@@ -127,7 +128,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-green-500 to-emerald-500",
       shadow: "shadow-lg shadow-green-500",
@@ -138,7 +139,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-red-500 to-rose-500",
       shadow: "shadow-lg shadow-rose-500",
@@ -149,7 +150,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-orange-500 to-amber-500",
       shadow: "shadow-lg shadow-orange-500",
@@ -160,7 +161,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-gray-900 to-yellow-500",
       shadow: "shadow-lg shadow-yellow-500",
@@ -171,7 +172,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-blue-500 to-cyan-500",
       shadow: "shadow-lg shadow-cyan-500",
@@ -182,7 +183,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-yellow-500 to-yellow-500",
       shadow: "shadow-lg shadow-yellow-500",
@@ -193,7 +194,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-[#936550] to-orange-900",
       shadow: "shadow-lg shadow-orange-800",
@@ -204,7 +205,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-indigo-700 to-indigo-700",
       shadow: "shadow-lg shadow-indigo-500",
@@ -215,7 +216,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-green-600 to-lime-500",
       shadow: "shadow-lg shadow-lime-500",
@@ -226,7 +227,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-slate-900 to-black",
       shadow: "shadow-lg shadow-black",
@@ -237,7 +238,7 @@ const topratesales = {
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
-      img: "https://img.freepik.com/premium-psd/pair-yellow-sneakers-green-background_629317-78.jpg?w=740",
+      img: nike,
       price: "150",
       color: "from-blue-900 to-blue-500",
       shadow: "shadow-lg shadow-blue-500",
