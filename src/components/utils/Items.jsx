@@ -5,7 +5,10 @@ import {ShoppingBagIcon, StarIcon} from "@heroicons/react/24/solid";
 const Items = ({id, title, text, rating, btn, img, price, color, shadow}) => {
   return (
     <>
-      <div>
+      {/* text content */}
+      <div
+        className={`relative grid items-center justify-items-center bg-gradient-to-b ${color} ${shadow} rounded-xl py-4 px-5 transition-all duration-700 ease-in-out w-full hover:scale-105`}
+      >
         <h1>{title}</h1>
         <p>{text}</p>
         <div>
